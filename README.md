@@ -14,7 +14,7 @@ If you are developing a production application, we recommend using TypeScript an
 
 Clone the repository:
 
-git clone https://github.com/yourusername/project-name.git
+git clone https://github.com/AbhinandVb02/alphaura
 
 Navigate to the project directory:
 
